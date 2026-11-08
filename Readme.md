@@ -1,6 +1,6 @@
 # LED-BoX: 8x8x8 Audio-Reactive LED Cube
 
-![Full 3D Render](Images/CAD1.png)
+![Full 3D Render](IMAGES/CAD1.png)
 ![Full 3D Render](Images/CAD2.png)
 
 
@@ -13,9 +13,9 @@
 ### 1. 512-LED Hierarchical Matrix Design (L0_A – L7_A & COL_00 – COL_77)
 To keep the schematic clean, readable, and modular, the KiCad project is structured into **9 hierarchical sheets** where the root sheet ties everything together. The first 8 sheets represent the horizontal LED layers (Layer 0 through Layer 7), with each sheet containing an 8 x 8 grid of 64 LEDs to make up the 512 LEDs in total. Within each horizontal layer sheet, all 64 LED anodes are tied together onto a dedicated global layer net—labeled L0_A for the first sheet, L1_A for the second 8x8 matrix sheet, and continuing sequentially up to L7_A for the eighth sheet. Meanwhile, the LED cathodes are wired vertically across all 8 layers using an (X, Y) coordinate naming convention starting from COL_00, COL_01, and COL_02 all the way up to COL_77, forming 64 independent vertical cathode columns. The 9th sheet serves as the main controller and driver unit, housing the ESP32-DEVKITC, the 9-chip 74HC595 serial cascade, the 8 TIP127 layer drivers, the `INMP441` microphone interface, and the 5V 5A power distribution network that powers the entire build.
 
-![Hierarchical Schematics](Images/Root.png)
-![LED Schematics](Images/LED%20sheet.png)
-![MCU Schematics](Images/MainSheet.png)
+![Hierarchical Schematics](IMAGES/Root.png)
+![LED Schematics](IMAGES/LED%20sheet.png)
+![MCU Schematics](IMAGES/MainSheet.png)
 
 ---
 
