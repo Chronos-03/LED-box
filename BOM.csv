@@ -1,16 +1,16 @@
-Part,Description,Qty,Unit Price,Total,Vendor,Link
-LED,Main Component,6,$1.16,$6.96,makerbazar,https://makerbazar.in/products/dip-led-5mm-oval-shape?variant=42130076696816
-ESP32,control unit,1,$4.67,$4.67,robu,https://robu.in/product/esp-wroom-32-esp32-wifi-bt-ble-mcu-module/
-74HC595,Shift Ic,9,$0.19,$1.71,hubtronic,https://hubtronics.in/1181
-TIP127,Transistor,8,$0.01,$0.08,quartzcomponents,https://quartzcomponents.com/products/tip127-darlington-pnp-transistor-to-220
-INMP441 MEMS,Mic,1,$1.59,$1.59,robu,https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s/
-5V 5A adapter,powersupply,1,$4.55,$4.55,quartzcomponents,https://quartzcomponents.com/products/5v-5a-power-supply-charger-25w-smps-adapter
-Dot board,soldering the parts,1,$0.42,$0.42,makerbazar,https://makerbazar.in/products/general-purpose-solderable-vero-board?variant=48251196834032
-220 ohm,resistor,64,$0.01,$0.64,robu,https://robu.in/product/1-month-warranty-1209/
-1k ohm,resistor,8,$0.01,$0.08,robu,https://robu.in/product/1k-ohm-1w-metal-film-resistor-pack-of-40/
-screw terminal,powerinput,1,$0.11,$0.11,robu,https://robu.in/product/kf301-2-pin-5-08mm-pitch-plug-in-screw-terminal-block-connector-pack-of-5/
-capcitor,Bulk Power Caps,2,$0.01,$0.02,robu,https://robu.in/product/hy1c102m100170cd288-hyncdz-1000uf-16v-65m%cf%89100khz-%c2%b120-1-35a100khz-plugind10xl17mm-aluminum-electrolytic-capacitors-leaded-rohs/
-100n,capacitor,10,$0.01,$0.10,robu,https://robu.in/product/100nf-50v-disc-capacitor/
-10k ohm,resistor,1,$0.01,$0.01,robu,https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/
-case,case for holding,1,$10.00,$10.00,printing legion,https://printlegion.hackclub.com/
-Total,,124,,$30.94,,
+Item,Qty,Supplier,Cost/item,Total Cost,link
+LED,6,Makerbazar,$1.16,$6.96,https://makerbazar.in/products/dip-led-5mm-oval-shape?variant=42130076696816
+ESP32,1,robu,$4.67,$4.67,https://robu.in/product/esp-wroom-32-esp32-wifi-bt-ble-mcu-module/
+74HC595,9,hubtronic,$0.19,$1.71,https://hubtronics.in/1181
+TIP127,8,quartzcomponents,$0.01,$0.08,https://quartzcomponents.com/products/tip127-darlington-pnp-transistor-to-220
+INMP441 MEMS,1,robu,$1.59,$1.59,https://robu.in/product/inmp441-mems-high-precision-omnidirectional-microphone-module-i2s/
+5V 5A adapter,1,quartzcomponents,$4.55,$4.55,https://quartzcomponents.com/products/5v-5a-power-supply-charger-25w-smps-adapter
+Dot board,1,makerbazar,$0.42,$0.42,https://makerbazar.in/products/general-purpose-solderable-vero-board?variant=48251196834032
+220 ohm,64,robu,$0.01,$0.64,https://robu.in/product/1-month-warranty-1209/
+1k ohm,8,robu,$0.01,$0.08,https://robu.in/product/1k-ohm-1w-metal-film-resistor-pack-of-40/
+screw terminal,1,robu,$0.11,$0.11,https://robu.in/product/kf301-2-pin-5-08mm-pitch-plug-in-screw-terminal-block-connector-pack-of-5/
+capcitor,2,robu,$0.01,$0.02,https://robu.in/product/hy1c102m100170cd288-hyncdz-1000uf-16v-65m%cf%89100khz-%c2%b120-1-35a100khz-plugind10xl17mm-aluminum-electrolytic-capacitors-leaded-rohs/
+100n,10,robu,$0.01,$0.10,https://robu.in/product/100nf-50v-disc-capacitor/
+10k ohm,1,robu,$0.01,$0.01,https://robu.in/product/10k-ohm-0-25w-metal-film-resistor-pack-of-100/
+case,1,printing legion,$10.00,$10.00,https://printlegion.hackclub.com/
+Estimated total shipping,1,,,$0.00,
