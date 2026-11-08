@@ -1,0 +1,428 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "700cbaac-c4fc-4517-b72b-6575750e72ca")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 203.2 15.24)
+		(size 33.02 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "084067d9-1a94-4c90-80ff-e1fc7965c890")
+		(property "Sheetname" "LED_L5"
+			(at 203.2 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L5.kicad_sch"
+			(at 203.2 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 17.78 66.04)
+		(size 33.02 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "50f4a763-7974-4fd0-9db8-0cba15986c50")
+		(property "Sheetname" "LED_L7"
+			(at 17.78 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L7.kicad_sch"
+			(at 17.78 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 15.24)
+		(size 30.48 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "69130dcf-eb97-4699-96fa-7b895656bb93")
+		(property "Sheetname" "LED_L4"
+			(at 170.18 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L4.kicad_sch"
+			(at 170.18 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 91.44 15.24)
+		(size 33.02 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9084d2e5-c4df-4f98-bac9-02c0400ddc56")
+		(property "Sheetname" "LED_L2"
+			(at 91.44 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L2.kicad_sch"
+			(at 91.44 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 58.42 66.04)
+		(size 30.48 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9cb1eac6-d289-4cd4-82a7-9a691c915135")
+		(property "Sheetname" "components"
+			(at 58.42 65.3284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "component.kicad_sch"
+			(at 58.42 114.8846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.88 15.24)
+		(size 30.48 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "a7a1ab57-03af-45b0-9a8a-95b7404900cf")
+		(property "Sheetname" "LED_L1"
+			(at 55.88 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L1.kicad_sch"
+			(at 55.88 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 241.3 15.24)
+		(size 35.56 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d4708d16-9959-4016-9515-2fee399d8729")
+		(property "Sheetname" "LED_L6"
+			(at 241.3 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L6.kicad_sch"
+			(at 241.3 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 129.54 15.24)
+		(size 33.02 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "ebadbcc4-3af5-4d7f-84a4-95a47445a1e8")
+		(property "Sheetname" "LED_L3"
+			(at 129.54 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LED_L3.kicad_sch"
+			(at 129.54 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 16.51 15.24)
+		(size 33.02 40.64)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "f3d7f97a-3ed4-438f-a344-ead21821364d")
+		(property "Sheetname" "LED_L0"
+			(at 16.51 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 16.51 56.4646 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ledcube"
+				(path "/700cbaac-c4fc-4517-b72b-6575750e72ca"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
